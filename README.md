@@ -64,3 +64,16 @@ These projects are specifically designed to demonstrate capabilities relevant to
 ---
 
 *Each project includes full source code, setup instructions, architecture documentation, and demo recordings.*
+
+---
+
+## Quick Start
+
+Clone any individual project:
+
+    git clone https://github.com/bradleybeatz1313/godot-procedural-ai
+
+For the Python RL environment:
+
+    pip install -r requirements.txt
+    python training/train.py
