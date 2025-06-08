@@ -77,3 +77,15 @@ For the Python RL environment:
 
     pip install -r requirements.txt
     python training/train.py
+
+---
+
+## Tools and Dependencies
+
+| Project | Runtime | Key Libraries |
+|---------|---------|---------------|
+| Godot Procedural AI | Godot 4.3+ | GDScript, AStar2D |
+| Defold Behavior Trees | Defold 1.6+ | Lua 5.1 |
+| Solar2D Neural Agents | Solar2D 2024.x | Lua 5.1 |
+| Panda3D RL Environment | Python 3.10+ | Gymnasium, SB3 |
+| Stride Procedural Terrain | .NET 6+ | Stride 4.1 |
