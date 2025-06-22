@@ -89,3 +89,13 @@ For the Python RL environment:
 | Solar2D Neural Agents | Solar2D 2024.x | Lua 5.1 |
 | Panda3D RL Environment | Python 3.10+ | Gymnasium, SB3 |
 | Stride Procedural Terrain | .NET 6+ | Stride 4.1 |
+
+---
+
+## Testing Philosophy
+
+Every AI system ships with a standalone test harness:
+
+- **Godot / Defold**: Scene-level debug visualizations (perception cones, path overlays, BT state)
+- **Panda3D**: Headless pytest suite covering env reset, step, reward shaping, and edge cases
+- **Stride**: Unit tests for noise generation, biome classification, and mesh normal accuracy
