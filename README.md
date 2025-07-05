@@ -99,3 +99,15 @@ Every AI system ships with a standalone test harness:
 - **Godot / Defold**: Scene-level debug visualizations (perception cones, path overlays, BT state)
 - **Panda3D**: Headless pytest suite covering env reset, step, reward shaping, and edge cases
 - **Stride**: Unit tests for noise generation, biome classification, and mesh normal accuracy
+
+---
+
+## System Requirements
+
+| Engine | Min Version | Notes |
+|--------|------------|-------|
+| Godot | 4.2 | Requires NavigationServer2D |
+| Defold | 1.6.0 | Socket library for BT cooldown timing |
+| Solar2D | 2024.3757 | physics.newBody required |
+| Panda3D | 1.10.13 | Python 3.10+ recommended |
+| Stride | 4.1 | .NET 6 SDK required |
