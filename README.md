@@ -111,3 +111,17 @@ Every AI system ships with a standalone test harness:
 | Solar2D | 2024.3757 | physics.newBody required |
 | Panda3D | 1.10.13 | Python 3.10+ recommended |
 | Stride | 4.1 | .NET 6 SDK required |
+
+---
+
+## Architecture Highlights
+
+**Godot Procedural AI**: BSP dungeon generation, hierarchical A*, priority-selector BT with 5 behavior layers.
+
+**Defold Behavior Trees**: Zero-allocation tree construction via table pooling, composable decorators with resumable state.
+
+**Panda3D RL Environment**: Gymnasium-compatible with full SB3/CleanRL support. 24-dim observation: lidar + velocity + heading + target.
+
+**Solar2D Neural Agents**: Neuroevolution via genetic algorithms -- no backprop. Xavier init, crossover, Gaussian mutation.
+
+**Stride Terrain**: Streaming LOD terrain with biome classification and ML-based navigation agent.
