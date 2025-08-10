@@ -125,3 +125,12 @@ Every AI system ships with a standalone test harness:
 **Solar2D Neural Agents**: Neuroevolution via genetic algorithms -- no backprop. Xavier init, crossover, Gaussian mutation.
 
 **Stride Terrain**: Streaming LOD terrain with biome classification and ML-based navigation agent.
+
+---
+
+## Research Applications
+
+- **Reproducibility**: Seeded RNG throughout -- every run is deterministic when seeded
+- **Observability**: Per-step info dicts, event buses, and debug draw layers
+- **Extensibility**: All agent configs are data-driven (JSON/Resources), not hard-coded
+- **Benchmarking**: Built-in episode metrics logged for offline analysis
