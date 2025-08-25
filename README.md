@@ -134,3 +134,15 @@ Every AI system ships with a standalone test harness:
 - **Observability**: Per-step info dicts, event buses, and debug draw layers
 - **Extensibility**: All agent configs are data-driven (JSON/Resources), not hard-coded
 - **Benchmarking**: Built-in episode metrics logged for offline analysis
+
+---
+
+## Project Status
+
+| Repository | Status | Last Updated |
+|-----------|--------|-------------|
+| godot-procedural-ai | Active | 2025-08 |
+| defold-behavior-trees | Active | 2025-08 |
+| solar2d-neural-agents | Active | 2025-08 |
+| panda3d-rl-environment | Active | 2025-07 |
+| stride-procedural-terrain | Active | 2025-07 |
