@@ -146,3 +146,13 @@ Every AI system ships with a standalone test harness:
 | solar2d-neural-agents | Active | 2025-08 |
 | panda3d-rl-environment | Active | 2025-07 |
 | stride-procedural-terrain | Active | 2025-07 |
+
+---
+
+## Engine Philosophy
+
+- **Godot 4**: Best-in-class GDScript tooling, native NavigationServer, fully open source
+- **Defold**: Extremely lightweight runtime; ideal for demonstrating pure logic with zero overhead
+- **Solar2D**: Proven mobile physics; tests neural evolution under real 2D constraints
+- **Panda3D**: Python-native; bridges game engine and ML library ecosystems
+- **Stride**: Full .NET 6 stack; demonstrates enterprise C# game development practices
