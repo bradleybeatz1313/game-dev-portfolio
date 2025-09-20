@@ -156,3 +156,12 @@ Every AI system ships with a standalone test harness:
 - **Solar2D**: Proven mobile physics; tests neural evolution under real 2D constraints
 - **Panda3D**: Python-native; bridges game engine and ML library ecosystems
 - **Stride**: Full .NET 6 stack; demonstrates enterprise C# game development practices
+
+---
+
+## Roadmap
+
+- [ ] Unity project demonstrating DOTS-based AI (ECS behavior trees)
+- [ ] Unreal Engine 5 project with Mass Entity + StateTree
+- [ ] Shared benchmark suite comparing agent performance across engines
+- [ ] Docker-based headless training environment for Panda3D
