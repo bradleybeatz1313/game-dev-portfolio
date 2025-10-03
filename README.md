@@ -165,3 +165,14 @@ Every AI system ships with a standalone test harness:
 - [ ] Unreal Engine 5 project with Mass Entity + StateTree
 - [ ] Shared benchmark suite comparing agent performance across engines
 - [ ] Docker-based headless training environment for Panda3D
+
+---
+
+## Key Design Patterns
+
+All projects follow the same structural patterns:
+
+1. **Event Bus**: Decoupled agent-to-world communication; no direct node references
+2. **Config Resources**: Agent stats, tree parameters, and env configs are externalized
+3. **Blackboard**: Shared read/write context passed through every AI decision
+4. **Component Composition**: Perception, steering, and decision are separate, swappable systems
