@@ -189,3 +189,11 @@ Measured on Apple M2 Pro (single core, headless):
 | Defold BT | 100 | ~0.03ms | < 0.5% |
 | Solar2D NN | 30 | ~0.12ms | < 2% |
 | Panda3D RL | 1 | ~0.4ms | N/A (training) |
+
+---
+
+## Collaboration
+
+Open to collaboration on novel AI architectures for game agents, cross-engine portability
+experiments, RL environment design, and ML/game engine hybrid pipelines.
+Reach out via email or open a discussion on any individual repo.
