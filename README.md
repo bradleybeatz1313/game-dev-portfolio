@@ -197,3 +197,15 @@ Measured on Apple M2 Pro (single core, headless):
 Open to collaboration on novel AI architectures for game agents, cross-engine portability
 experiments, RL environment design, and ML/game engine hybrid pipelines.
 Reach out via email or open a discussion on any individual repo.
+
+---
+
+## Demo Videos
+
+*(links will be added as recordings are captured)*
+
+- Godot: Dungeon generation and A* pathfinding walkthrough
+- Defold: Behavior tree visual debugger demo
+- Solar2D: Neuroevolution across 10 generations
+- Panda3D: SB3 PPO training curve and agent navigation
+- Stride: Terrain streaming and ML nav agent
