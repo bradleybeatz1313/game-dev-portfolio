@@ -209,3 +209,15 @@ Reach out via email or open a discussion on any individual repo.
 - Solar2D: Neuroevolution across 10 generations
 - Panda3D: SB3 PPO training curve and agent navigation
 - Stride: Terrain streaming and ML nav agent
+
+---
+
+## Versioning
+
+| Repository | Version |
+|-----------|---------|
+| godot-procedural-ai | v1.2.0 |
+| defold-behavior-trees | v1.3.0 |
+| solar2d-neural-agents | v1.1.0 |
+| panda3d-rl-environment | v1.0.2 |
+| stride-procedural-terrain | v1.0.1 |
