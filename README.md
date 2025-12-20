@@ -221,3 +221,16 @@ Reach out via email or open a discussion on any individual repo.
 | solar2d-neural-agents | v1.1.0 |
 | panda3d-rl-environment | v1.0.2 |
 | stride-procedural-terrain | v1.0.1 |
+
+---
+
+## FAQ
+
+**Q: Can I use these in a commercial game?**
+All code is MIT licensed.
+
+**Q: Are these production-ready?**
+The AI systems are production-quality. The engine integrations are reference projects, not drop-in plugins.
+
+**Q: Which project should I look at first?**
+Start with godot-procedural-ai -- it has the most complete integration of all systems.
