@@ -234,3 +234,10 @@ The AI systems are production-quality. The engine integrations are reference pro
 
 **Q: Which project should I look at first?**
 Start with godot-procedural-ai -- it has the most complete integration of all systems.
+
+---
+
+## License
+
+All projects are released under the **MIT License**. See LICENSE in each repository.
+Free to use, modify, and distribute for any purpose, commercial or otherwise, with attribution.
