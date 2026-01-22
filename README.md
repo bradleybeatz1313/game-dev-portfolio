@@ -241,3 +241,12 @@ Start with godot-procedural-ai -- it has the most complete integration of all sy
 
 All projects are released under the **MIT License**. See LICENSE in each repository.
 Free to use, modify, and distribute for any purpose, commercial or otherwise, with attribution.
+
+---
+
+## Related Work
+
+- OpenAI Gymnasium -- standard RL environment interface
+- Stable-Baselines3 -- RL algorithms used in Panda3D project
+- GDQuest -- Godot learning resources
+- Behavior Trees in Robotics and AI (arXiv:1709.00084) -- theoretical foundation
