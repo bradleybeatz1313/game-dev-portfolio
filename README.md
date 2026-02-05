@@ -250,3 +250,10 @@ Free to use, modify, and distribute for any purpose, commercial or otherwise, wi
 - Stable-Baselines3 -- RL algorithms used in Panda3D project
 - GDQuest -- Godot learning resources
 - Behavior Trees in Robotics and AI (arXiv:1709.00084) -- theoretical foundation
+
+---
+
+## Acknowledgements
+
+Built as part of ongoing study in game AI, procedural generation, and reinforcement learning.
+Thanks to the open-source game development community for documentation, tooling, and examples.
