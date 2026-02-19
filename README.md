@@ -257,3 +257,10 @@ Free to use, modify, and distribute for any purpose, commercial or otherwise, wi
 
 Built as part of ongoing study in game AI, procedural generation, and reinforcement learning.
 Thanks to the open-source game development community for documentation, tooling, and examples.
+
+---
+
+## Contributing
+
+Issues and PRs are welcome on individual project repos.
+For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
