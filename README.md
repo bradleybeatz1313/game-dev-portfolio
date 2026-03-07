@@ -264,3 +264,13 @@ Thanks to the open-source game development community for documentation, tooling,
 
 Issues and PRs are welcome on individual project repos.
 For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
+
+---
+
+## Changelog
+
+- **2026-02**: Added contributing guidelines and acknowledgements
+- **2026-01**: Added versioning table, related work, and license section
+- **2025-11**: Added demo videos placeholder and collaboration notes
+- **2025-10**: Added benchmarks and design pattern documentation
+- **2025-08**: Initial public release with all 5 engine projects
