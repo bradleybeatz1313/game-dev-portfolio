@@ -274,3 +274,5 @@ For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
 - **2025-11**: Added demo videos placeholder and collaboration notes
 - **2025-10**: Added benchmarks and design pattern documentation
 - **2025-08**: Initial public release with all 5 engine projects
+
+<!-- project status updated April 2026 -->
