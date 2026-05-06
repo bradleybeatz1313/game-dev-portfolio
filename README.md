@@ -280,3 +280,5 @@ For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
 <!-- portfolio v2.0 -->
 
 <!-- last reviewed 2026-04-28 -->
+
+<!-- v2.2 ready -->
