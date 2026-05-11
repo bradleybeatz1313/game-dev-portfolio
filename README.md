@@ -284,3 +284,11 @@ For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
 <!-- v2.2 ready -->
 
 <!-- portfolio last audited 2026-05 -->
+
+---
+
+## Next Steps
+
+- [ ] Record walkthrough videos for each project
+- [ ] Add GitHub Actions CI for the Python environments
+- [ ] Cross-link each sub-repo back to this portfolio README
