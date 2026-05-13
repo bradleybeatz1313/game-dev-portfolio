@@ -292,3 +292,12 @@ For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
 - [ ] Record walkthrough videos for each project
 - [ ] Add GitHub Actions CI for the Python environments
 - [ ] Cross-link each sub-repo back to this portfolio README
+
+---
+
+## v2.1 Updates (May 2026)
+
+- Added timeout and retry decorator nodes to defold-behavior-trees
+- Panda3D env: vectorized training support via SB3 VecEnv
+- Solar2D: rank-based and tournament selection strategies added
+- Stride: domain-warped and moisture noise for biome diversity
