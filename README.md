@@ -301,3 +301,12 @@ For portfolio-wide feedback, open an issue on this game-dev-portfolio repo.
 - Panda3D env: vectorized training support via SB3 VecEnv
 - Solar2D: rank-based and tournament selection strategies added
 - Stride: domain-warped and moisture noise for biome diversity
+
+---
+
+## Getting Help
+
+Open an issue on the relevant repo with:
+- Engine version
+- Error message or unexpected behavior
+- Minimal reproduction steps
