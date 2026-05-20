@@ -310,3 +310,5 @@ Open an issue on the relevant repo with:
 - Engine version
 - Error message or unexpected behavior
 - Minimal reproduction steps
+
+<!-- updated May 2026: stride terrain biome table, panda3d obs space doc, defold node reference -->
