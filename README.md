@@ -312,3 +312,11 @@ Open an issue on the relevant repo with:
 - Minimal reproduction steps
 
 <!-- updated May 2026: stride terrain biome table, panda3d obs space doc, defold node reference -->
+
+---
+
+## Contact
+
+- **GitHub:** [bradleybeatz1313](https://github.com/bradleybeatz1313)
+- **Email:** bradley.s.barroso@gmail.com
+- **LinkedIn:** [Brad Barroso](https://www.linkedin.com/in/bradley-barroso-aa64ba372)
