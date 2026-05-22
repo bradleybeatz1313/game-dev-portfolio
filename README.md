@@ -320,3 +320,10 @@ Open an issue on the relevant repo with:
 - **GitHub:** [bradleybeatz1313](https://github.com/bradleybeatz1313)
 - **Email:** bradley.s.barroso@gmail.com
 - **LinkedIn:** [Brad Barroso](https://www.linkedin.com/in/bradley-barroso-aa64ba372)
+
+---
+
+## Stars and Forks
+
+If any of these projects are useful to you, a GitHub star helps others find them.
+Forks and experiments are welcome -- share what you build!
