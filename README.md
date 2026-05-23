@@ -327,3 +327,12 @@ Open an issue on the relevant repo with:
 
 If any of these projects are useful to you, a GitHub star helps others find them.
 Forks and experiments are welcome -- share what you build!
+
+---
+
+## Interview Notes
+
+These projects are specifically designed to be walkthrough-friendly:
+- Each README explains the architecture before the code
+- Debug visualizations are built in (not bolted on)
+- All AI decisions are logged to the EventBus for replay and analysis
