@@ -336,3 +336,10 @@ These projects are specifically designed to be walkthrough-friendly:
 - Each README explains the architecture before the code
 - Debug visualizations are built in (not bolted on)
 - All AI decisions are logged to the EventBus for replay and analysis
+
+---
+
+## Open Source Philosophy
+
+All code in this portfolio is written from scratch and open-sourced under MIT.
+No tutorial code, no asset store scripts -- every line is original work.
